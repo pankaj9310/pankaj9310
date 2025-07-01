@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Chaudhary</h1>
 <h3 align="center">A passionate software developer from India.<br/>
-I have 6+ years of experience as a Backed Developer and exposure to all aspects of product development, into Fintech, cloud native and EduTech domain.</h3>
+I have 9+ years of experience as a Backed Developer and exposure to all aspects of product development, into Fintech, cloud native and EduTech domain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj9310&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj9310" /> </p>
 
